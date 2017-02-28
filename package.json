@@ -1,6 +1,6 @@
 {
   "name": "gulp-penthouse",
-  "version": "0.1.0-alpha1",
+  "version": "0.2.0",
   "description": "Gulp plugin for extracting critical path css",
   "main": "index.js",
   "scripts": {

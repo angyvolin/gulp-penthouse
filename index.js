@@ -41,7 +41,7 @@ module.exports = function gulpCriticalCss(options) {
             }
 
             file.contents = new Buffer(criticalCss);
-            file.path = options.out;
+            file.path = file.base + options.out;
 
             cb(null, file);
         });
