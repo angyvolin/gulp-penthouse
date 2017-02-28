@@ -1,0 +1,32 @@
+{
+  "name": "gulp-penthouse",
+  "version": "0.1.0-alpha1",
+  "description": "Gulp plugin for extracting critical path css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:angyvolin/gulp-penthouse.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "penthouse",
+    "critical",
+    "path",
+    "css",
+    "tools",
+    "css"
+  ],
+  "author": "Andrii Volin <angy.volin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angyvolin/gulp-penthouse/issues"
+  },
+  "homepage": "https://github.com/angyvolin/gulp-penthouse#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "penthouse": "~0.10.9"
+  }
+}
